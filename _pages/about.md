@@ -1,4 +1,13 @@
+---
+permalink:/
+title: "About me"
+excerpt:“About me"
+author_profile: true
+redirect from:
+  - /about/
+  - /about.html
 
+---
 
 I'm a third year undergraduate student from [Beijing University of Posts and Telecommunications]([https://www.bupt.edu.cn/]). My research interest includes Machine Learning, Natural Language Processing and Multimodal.
 
